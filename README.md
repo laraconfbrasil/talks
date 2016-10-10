@@ -10,4 +10,4 @@ Slides das apresentações da Laraconf Brasil
 - [Construindo e mantendo aplicações multi-tenant (multi-cliente)]() por [@DfKimera](https://github.com/DfKimera)
 - [Laravel e front end: dicas para dominar a integração com Gulp/Elixir](http://slides.com/vedovelli/laraconf-brasil-2016) por [@vedovelli](https://github.com/vedovelli)
 - [Laravel 5.3 e Aplicações Real Time](https://docs.google.com/presentation/d/1ljynIMj3EDoxRmEKQZkPrOaG2We01557uo8AHo4EGas/edit?usp=sharing) por [@hernandev](https://github.com/hernandev)
-- [Laravel para Aplicações de Grande Porte](https://docs.google.com/presentation/d/14wXU0CmGmW_5A-4u56g6Eg4pc3Igse6I25RMj64j1O8/edit?usp=sharing) por [@hernandev](https://github.com/hernandev) e [@vinicius73](https://github.com/vinicius73)
+- [Laravel para Aplicações de Grande Porte](https://speakerdeck.com/vinicius73/laravel-para-aplicacoes-de-grande-porte) por [@hernandev](https://github.com/hernandev) e [@vinicius73](https://github.com/vinicius73)
