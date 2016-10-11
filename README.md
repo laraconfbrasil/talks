@@ -3,8 +3,8 @@ Slides das apresentações da Laraconf Brasil
 
 # 2016
 - [Escalando sua aplicação para milhões de visitas](https://speakerdeck.com/zizaco/escalando-sua-aplicacao-para-milhoes-de-visitas) por [@zizaco](https://github.com/zizaco)
-- [Todos por um. Criando pacotes para o Laravel](http://www.slideshare.net/IsaquedeSouzaBarbosa/todos-por-1) por [@isaquesb](https://github.com/isaquesb) 
-- TDD: Por que e por onde começar por [@mateusjatenee](https://github.com/mateusjatenee)
+- [Todos por um. Criando pacotes para o Laravel](http://www.slideshare.net/IsaquedeSouzaBarbosa/todos-por-1) por [@isaquesb](https://github.com/isaquesb)
+- [TDD: Por que e por onde começar](https://speakerdeck.com/mateusjatenee/tdd-por-que-e-por-onde-comecar) por [@mateusjatenee](https://github.com/mateusjatenee)
 - [Desvendando as queries no Elasticsearch](https://speakerdeck.com/guilhermeguitte/desvendando-as-queries-no-elasticsearch-v2) por [@guilhermeguitte](https://github.com/guilhermeguitte)
 - [Como sobreviver no Game of Thrones do Desenvolvimento](https://speakerdeck.com/rscafi/como-sobreviver-no-game-of-thrones-do-desenvolvimento) por [@rscafi](https://github.com/rscafi)
 - [Construindo e mantendo aplicações multi-tenant (multi-cliente)]() por [@DfKimera](https://github.com/DfKimera)
