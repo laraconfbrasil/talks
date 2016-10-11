@@ -1,5 +1,5 @@
 # Laraconf Brasil
-Slides das apresentações da [Laraconf Brasil](http://laraconfbrasil.com.br/)
+Informações relevantes sobre as apresentações da [Laraconf Brasil](http://laraconfbrasil.com.br/).
 
 # 2016
 
