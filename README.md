@@ -1,5 +1,5 @@
 # Laraconf Brasil
-Slides das apresentações da Laraconf Brasil
+Slides das apresentações da [Laraconf Brasil](http://laraconfbrasil.com.br/)
 
 # 2016
 - [Escalando sua aplicação para milhões de visitas](https://speakerdeck.com/zizaco/escalando-sua-aplicacao-para-milhoes-de-visitas) por [@zizaco](https://github.com/zizaco)
