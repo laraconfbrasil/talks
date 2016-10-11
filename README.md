@@ -9,5 +9,5 @@ Slides das apresentações da Laraconf Brasil
 - [Como sobreviver no Game of Thrones do Desenvolvimento](https://speakerdeck.com/rscafi/como-sobreviver-no-game-of-thrones-do-desenvolvimento) por [@rscafi](https://github.com/rscafi)
 - [Construindo e mantendo aplicações multi-tenant (multi-cliente)]() por [@DfKimera](https://github.com/DfKimera)
 - [Laravel e front end: dicas para dominar a integração com Gulp/Elixir](http://slides.com/vedovelli/laraconf-brasil-2016) por [@vedovelli](https://github.com/vedovelli)
-- [Laravel 5.3 e Aplicações Real Time](https://docs.google.com/presentation/d/1ljynIMj3EDoxRmEKQZkPrOaG2We01557uo8AHo4EGas/edit?usp=sharing) por [@hernandev](https://github.com/hernandev)
+- [Laravel 5.3 e Aplicações Real Time](https://speakerdeck.com/hernandev/laravel-5-dot-3-e-aplicacoes-real-time) por [@hernandev](https://github.com/hernandev)
 - [Laravel para Aplicações de Grande Porte](https://speakerdeck.com/vinicius73/laravel-para-aplicacoes-de-grande-porte) por [@hernandev](https://github.com/hernandev) e [@vinicius73](https://github.com/vinicius73)
