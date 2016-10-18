@@ -1,6 +1,8 @@
 # Laraconf Brasil
 Informações relevantes sobre as apresentações da [Laraconf Brasil](http://laraconfbrasil.com.br/).
 
+[Acompanhe a página do #laraconfBrasil no Facebook](https://www.facebook.com/laravelconferencebrasil)
+
 # 2016
 
 | Palestra | Palestrante | Slides | Vídeo |
