@@ -1,6 +1,8 @@
 # Laraconf Brasil
 Informações relevantes sobre as apresentações da [Laraconf Brasil](http://laraconfbrasil.com.br/).
 
+<img src="http://laraconfbrasil.com.br/img/laravel_logo.png" width="200" align="center">
+
 [Acompanhe a página do #laraconfBrasil no Facebook](https://www.facebook.com/laravelconferencebrasil)
 
 # 2016
