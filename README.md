@@ -5,6 +5,18 @@ Informações relevantes sobre as apresentações da [Laraconf Brasil](http://la
 
 [Acompanhe a página do #laraconfBrasil no Facebook](https://www.facebook.com/laravelconferencebrasil)
 
+# 2017
+
+## Dia 1
+| Palestra | Palestrante | Slides | Vídeo |
+|----------|-------------|--------|-------|
+| **API RESTful com Laravel** | Camila Silva Fernandes | | |
+| **Collections, uma solução?** | Gabriel Caruso | | |
+
+## Dia 2
+| Palestra | Palestrante | Slides | Vídeo |
+|----------|-------------|--------|-------|
+
 # 2016
 
 | Palestra | Palestrante | Slides | Vídeo |
@@ -19,4 +31,3 @@ Informações relevantes sobre as apresentações da [Laraconf Brasil](http://la
 | **Laravel e front end: dicas para dominar a integração com Gulp/Elixir** | [![Github](https://img.shields.io/badge/Github-@vedovelli-blue.svg)](https://github.com/vedovelli) | [![Slides.com](https://img.shields.io/badge/slides-Slides.com-brightgreen.svg)](http://slides.com/vedovelli/laraconf-brasil-2016) | [![YouTube](https://img.shields.io/badge/V%C3%ADdeo-Youtube-red.svg)](https://www.youtube.com/watch?v=IfPoN5BuKCs) |
 | **Laravel 5.3 e Aplicações Real Time** | [![Github](https://img.shields.io/badge/Github-@hernandev-blue.svg)](https://github.com/hernandev) | [![SpeakerDeck](https://img.shields.io/badge/slides-SpeakerDeck-brightgreen.svg)](https://speakerdeck.com/hernandev/laravel-5-dot-3-e-aplicacoes-real-time) | [![YouTube](https://img.shields.io/badge/V%C3%ADdeo-Youtube-red.svg)](https://www.youtube.com/watch?v=3HT4AEy94vc)|
 | **Laravel para Aplicações de Grande Porte** | [![Github](https://img.shields.io/badge/Github-@hernandev-blue.svg)](https://github.com/hernandev) [![Github](https://img.shields.io/badge/Github-@vinicius73-blue.svg)](https://github.com/vinicius73) | [![SpeakerDeck](https://img.shields.io/badge/slides-SpeakerDeck-brightgreen.svg)](https://speakerdeck.com/vinicius73/laravel-para-aplicacoes-de-grande-porte) | [![YouTube](https://img.shields.io/badge/V%C3%ADdeo-Youtube-red.svg)](https://youtu.be/3HT4AEy94vc?t=1313)|
-
