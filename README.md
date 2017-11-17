@@ -11,6 +11,7 @@ Informações relevantes sobre as apresentações da [Laraconf Brasil](http://la
 |----------|-------------|--------|-------|
 | **Collections, uma solução?!** | [![Github](https://img.shields.io/badge/Github-@gabriel--caruso-blue.svg)](https://github.com/gabriel-caruso) | [![SpeakerDeck](https://img.shields.io/badge/slides-SpeakerDeck-brightgreen.svg)](https://speakerdeck.com/gabrielcaruso/collections-uma-solucao) | Em breve |
 | **Entenda de uma vez por todas o Container do Laravel** | [![Github](https://img.shields.io/badge/Github-@rscafi-blue.svg)](https://github.com/rscafi) | [![SpeakerDeck](https://img.shields.io/badge/slides-SpeakerDeck-brightgreen.svg)](https://speakerdeck.com/rscafi/entenda-de-uma-vez-por-todas-o-container-do-laravel) | Em breve |
+| **Aplicações CLI com Crystal** | [![Github](https://img.shields.io/badge/Github-@vitortalaia-blue.svg)](https://github.com/vitortalaia) | [![SpeakerDeck](https://img.shields.io/badge/slides-SpeakerDeck-brightgreen.svg)](https://speakerdeck.com/vitortalaia/cli-applications-with-crystal) | Em breve |
 
 # 2016
 
