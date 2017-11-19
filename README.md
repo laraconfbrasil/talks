@@ -39,6 +39,8 @@ Informações relevantes sobre as apresentações da [Laraconf Brasil](http://la
 
 # 2016
 
+[Edição 2016](https://laraconfbrasil.com.br/2016/render/)
+
 | Palestra | Palestrante | Slides | Vídeo |
 |----------|-------------|--------|-------|
 | **Escalando sua aplicação para milhões de visitas** | [![Github](https://img.shields.io/badge/Github-@zizaco-blue.svg)](https://github.com/zizaco) | [![SpeakerDeck](https://img.shields.io/badge/slides-SpeakerDeck-brightgreen.svg)](https://speakerdeck.com/zizaco/escalando-sua-aplicacao-para-milhoes-de-visitas) | [![YouTube](https://img.shields.io/badge/V%C3%ADdeo-Youtube-red.svg)](https://www.youtube.com/watch?v=jPbghDn0HLE) |
