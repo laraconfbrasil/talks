@@ -5,6 +5,38 @@ Informações relevantes sobre as apresentações da [Laraconf Brasil](http://la
 
 [Acompanhe a página do #laraconfBrasil no Facebook](https://www.facebook.com/laravelconferencebrasil)
 
+# 2017
+
+## Dia 17
+
+| Palestra | Palestrante | Slides | Vídeo |
+|----------|-------------|--------|-------|
+| **API RESTful com Laravel** | [![Github](https://img.shields.io/badge/Github-@Camilafernandes-blue.svg)](https://github.com/Camilafernandes) | Em breve | Em breve |
+| **Collections, uma solução?!** | [![Github](https://img.shields.io/badge/Github-@gabriel--caruso-blue.svg)](https://github.com/gabriel-caruso) | [![SpeakerDeck](https://img.shields.io/badge/slides-SpeakerDeck-brightgreen.svg)](https://speakerdeck.com/gabrielcaruso/collections-uma-solucao) | Em breve |
+| **Entenda de uma vez por todas o Container do Laravel** | [![Github](https://img.shields.io/badge/Github-@rscafi-blue.svg)](https://github.com/rscafi) | [![SpeakerDeck](https://img.shields.io/badge/slides-SpeakerDeck-brightgreen.svg)](https://speakerdeck.com/rscafi/entenda-de-uma-vez-por-todas-o-container-do-laravel) | Em breve |
+| **O mundo além do SOLID e dos Design Patterns** | [![Github](https://img.shields.io/badge/Github-@omarkdev-blue.svg)](https://github.com/omarkdev) | Em breve | Em breve |
+| **Provisionando seu ambiente Laravel com Ansible** | [![Github](https://img.shields.io/badge/Github-@leandrocostam-blue.svg)](https://github.com/leandrocostam) | Em breve | Em breve |
+| **Workflow & Infra para aplicações web** | [![Github](https://img.shields.io/badge/Github-@gabrielkoerich-blue.svg)](https://github.com/gabrielkoerich) | Em breve | Em breve |
+| **Aplicações CLI com Crystal** | [![Github](https://img.shields.io/badge/Github-@vitortalaia-blue.svg)](https://github.com/vitortalaia) | [![SpeakerDeck](https://img.shields.io/badge/slides-SpeakerDeck-brightgreen.svg)](https://speakerdeck.com/vitortalaia/cli-applications-with-crystal) | Em breve |
+| **Criando pacotes com Laravel** | [![Github](https://img.shields.io/badge/Github-@flyingluscas-blue.svg)](https://github.com/flyingluscas) | Em breve | Em breve |
+| **Como construir um MVP com design de código evolutivo guiado a testes** | [![Github](https://img.shields.io/badge/Github-@rplansky-blue.svg)](https://github.com/rplansky) | Em breve | Em breve |
+
+## Dia 18
+
+| Palestra | Palestrante | Slides | Vídeo |
+|----------|-------------|--------|-------|
+| **Apenas Laravel não basta!** | [![Github](https://img.shields.io/badge/Github-@vedovelli-blue.svg)](https://github.com/vedovelli) | Em breve | Em breve |
+| **Laravel e seu ecossistema** | [![Github](https://img.shields.io/badge/Github-@erikprogramador-blue.svg)](https://github.com/erikprogramador) | Em breve | Em breve |
+| **Testes automatizados: Tomando as rédeas do seu código (ou de outros)** | [![Github](https://img.shields.io/badge/Github-@GuilhermeGuitte-blue.svg)](https://github.com/GuilhermeGuitte) | Em breve | Em breve |
+| **Clean Code: como tornar nossos códigos legiveis para seres humanos** | [![Github](https://img.shields.io/badge/Github-@viniciusalonso-blue.svg)](https://github.com/viniciusalonso) | Em breve | Em breve |
+| **Melhore a Qualidade do seu Código com Object Calisthenics** | [![Github](https://img.shields.io/badge/Github-@marcelgsantos-blue.svg)](https://github.com/marcelgsantos) | Em breve | Em breve |
+| **Produtividade no Desenvolvimento usando Laravel com Docker** | [![Facebook](https://img.shields.io/badge/Facebook-@wilton.guilherme-blue.svg)](https://www.facebook.com/wilton.guilherme) | Em breve | Em breve |
+| **Porque escolhemos o Laravel - uma visão que está além do ponto de vista técnico** | [![Github](https://img.shields.io/badge/Github-@Bolinha1-blue.svg)](https://github.com/Bolinha1) | Em breve | Em breve |
+| **Domínios, do monolítico ao micro-serviço** | [![Github](https://img.shields.io/badge/Github-@vinicius73-blue.svg)](https://github.com/vinicius73) | Em breve | Em breve |
+| **Laravel: O Estado da Arte** | [![Github](https://img.shields.io/badge/Github-@hernandev-blue.svg)](https://github.com/hernandev) | Em breve | Em breve |
+
+---
+
 # 2016
 
 | Palestra | Palestrante | Slides | Vídeo |
