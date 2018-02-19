@@ -25,7 +25,7 @@ Informações relevantes sobre as apresentações da [Laraconf Brasil](http://la
 
 | Palestra | Palestrante | Slides | Vídeo |
 |----------|-------------|--------|-------|
-| **Apenas Laravel não basta!** | [![Github](https://img.shields.io/badge/Github-@vedovelli-blue.svg)](https://github.com/vedovelli) | [![Slides](https://img.shields.io/badge/slides-Slides-brightgreen.svg)](http://slides.com/vedovelli/laraconf-brasil-2017) | Em breve |
+| **Apenas Laravel não basta!** | [![Github](https://img.shields.io/badge/Github-@vedovelli-blue.svg)](https://github.com/vedovelli) | [![Slides](https://img.shields.io/badge/slides-Slides-brightgreen.svg)](http://slides.com/vedovelli/laraconf-brasil-2017) | [![YouTube](https://img.shields.io/badge/V%C3%ADdeo-Youtube-red.svg)](https://youtu.be/Hr5Jib5hr0Q) |
 | **Laravel e seu ecossistema** | [![Github](https://img.shields.io/badge/Github-@erikprogramador-blue.svg)](https://github.com/erikprogramador) | Em breve | Em breve |
 | **Testes automatizados: Tomando as rédeas do seu código (ou de outros)** | [![Github](https://img.shields.io/badge/Github-@GuilhermeGuitte-blue.svg)](https://github.com/GuilhermeGuitte) | Em breve | Em breve |
 | **Clean Code: como tornar nossos códigos legiveis para seres humanos** | [![Github](https://img.shields.io/badge/Github-@viniciusalonso-blue.svg)](https://github.com/viniciusalonso) | [![Slides](https://img.shields.io/badge/slides-Slides-brightgreen.svg)](http://slides.com/viniciusalonso/clean-code-laraconf-2017) | Em breve |
